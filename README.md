@@ -10,22 +10,8 @@
 - UpNext (?)
 
 <br />
-<img src="" width="50" height="30" />
 <a href="">Flutter Bloc, Cubit and Riverpod | Guide, Implementations and Comparisons</a>
 <br/>
 <br />
 
-
-<br />
-<img src="" />
-<br />
-
-
-
-
-### Created & Maintained By
-
-[@MA](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@MA](https://www.instagram.com/m.amir.k.official/) LinkedIn [@MA](https://www.linkedin.com/in/muhammad-aamir-119542b3/)
-
-[Learn More about MA](https://mamirk.com):
 
