@@ -10,14 +10,14 @@
 - UpNext (?)
 
 <br />
-<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/WgNgaDykkNY">Flutter Bloc, Cubit and Riverpod | Guide, Implementations and Comparisons</a>
+<img src="" width="50" height="30" />
+<a href="">Flutter Bloc, Cubit and Riverpod | Guide, Implementations and Comparisons</a>
 <br/>
 <br />
 
 
 <br />
-<img src="https://github.com/amirk3321/full-stack-dev-course-for-beginners/assets/10207753/2a1738f0-c66d-4bc0-a162-e5e378e6becf" />
+<img src="" />
 <br />
 
 
